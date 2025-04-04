@@ -1,4 +1,4 @@
-# ⚡ ElectroHeroes – Superhero-Inspired Electrical Logos
+# ⚡ ElectricVerse – Superhero-Inspired Electrical Logos
 
 A creative collection of fantasy logos that blend iconic superhero themes with elements from electrical engineering. Perfect for personal use on T-shirts, mugs, stickers, or just to show off your geeky style!
 
@@ -23,7 +23,7 @@ You are free to:
 - Sell the designs or any derivatives
 - Use them for commercial branding or mass production
 
-This artwork is licensed under a [Creative License – Personal Use Only](./LICENSE).
+This artwork is licensed under a [Creative License – Personal Use Only](https://github.com/ArshiaMadadii/ElectricVerse/blob/main/LICENSE%20.md).
 
 ## 🚀 Coming Soon
 
