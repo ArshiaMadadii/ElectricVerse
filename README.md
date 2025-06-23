@@ -10,6 +10,7 @@ This repository contains four unique logo designs:
 2. **Gibbs Phenomenon × Batman**
 3. **Integrated Circuit (IC) × Spider-Man**
 4. **MOSFET × Superman**
+5. **code bezan hamal + Shahnameh**
 
 Each logo is layered and grouped in a single PSD file with organized folders.
 
