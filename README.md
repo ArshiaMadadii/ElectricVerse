@@ -4,13 +4,18 @@ A creative collection of fantasy logos that blend iconic superhero themes with e
 
 ## 🔧 What's Inside
 
-This repository contains four unique logo designs:
+This repository contains several unique logo designs:
 
 1. **Electrolytic Capacitor × Batman**
 2. **Gibbs Phenomenon × Batman**
 3. **Integrated Circuit (IC) × Spider-Man**
 4. **MOSFET × Superman**
-5. **code bezan hamal + Shahnameh**
+5. **Code Bezan Hamal × Shahnameh**
+6. **Without Engineering, Science Is Just Philosophy**  
+   - Includes two versions:  
+     • one using the letter *i*  
+     • one using √(-1) as a clever math pun  
+   - Both include mockups on white T-shirts
 
 Each logo is layered and grouped in a single PSD file with organized folders.
 
@@ -28,13 +33,14 @@ This artwork is licensed under a [Creative License – Personal Use Only](https:
 
 ## 🚀 Coming Soon
 
-- High-resolution previews
-- SVG/PNG exports
-- Mockups on T-shirts & mugs
+- More high-resolution previews
+- SVG exports
+- Additional mockups (mugs, notebooks, posters)
 
 ## 🤝 Contributions
 
-Have an idea for an electric superhero fusion? Open an issue or start a pull request!
+Have an idea for an electric superhero fusion or a geeky engineering phrase? Open an issue or start a pull request!
 
 ---
+
 Designed by **Arshia Madadi**
