@@ -16,6 +16,8 @@ This repository contains several unique logo designs:
      • one using the letter *i*  
      • one using √(-1) as a clever math pun  
    - Both include mockups on white T-shirts
+7. **NO PAIN NO GAIN**
+
 
 Each logo is layered and grouped in a single PSD file with organized folders.
 
